@@ -8,7 +8,7 @@ Sample vedio source: https://www.youtube.com/watch?v=OD4_NFJ9Da8
 ## 0_Requirements  
 **1) Download yolo4v weight file.**  
 https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights  
-Download 'yolov4.weights' file to 'weught' folder through above URL.  
+Download 'yolov4.weights' file to 'weight' folder through above URL.  
 
 **2)(Option)Connect OpenCV with CUDA**  
 Before starting this project, you have to build a connection OpenCV with CUDA. (It's possible without this connection, but it's very slow😥, Of course you have to have at least one one GPU)  
