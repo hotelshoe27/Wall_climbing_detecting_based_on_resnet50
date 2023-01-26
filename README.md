@@ -1,6 +1,6 @@
 # Wall_climbing_detecting_based_on_resnet50  
 **This simple project detects a person climbing a wall using resnet50**  
-![output (2)](https://user-images.githubusercontent.com/120359150/214729247-86efd565-9d62-496e-bb4d-ab7c6d1cf13e.gif)  
+![output (2) (1)](https://user-images.githubusercontent.com/120359150/214790541-b36a0394-6860-4891-812a-a7269bb42e44.gif)  
 Sample vedio source: https://www.youtube.com/watch?v=OD4_NFJ9Da8  
 
 ---
