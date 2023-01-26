@@ -1,5 +1,4 @@
 import cv2
-import cvlib as cv
 import numpy as np
 import utils
 from tensorflow.keras.models import load_model
