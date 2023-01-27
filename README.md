@@ -11,7 +11,7 @@ https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yo
 Download 'yolov4.weights' file to 'weight' folder through above URL.  
 
 **2)(Option)Connect OpenCV with CUDA**  
-Before starting this project, you have to build a connection OpenCV with CUDA. (It's possible without this connection, but it's very slow😥, Of course you have to have at least one one GPU)  
+Before starting this project, you have to build a connection OpenCV with CUDA. (It's possible without this connection, but it's very slow😥, Of course you have to have at least one GPU)  
 If you want to know how to connect OpenCV with CUDA, See this URL(Korean): https://prlabhotelshoe.tistory.com/24  
 
 ---
