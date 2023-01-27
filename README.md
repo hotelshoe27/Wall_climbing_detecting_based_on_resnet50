@@ -23,7 +23,7 @@ Collecting images about wall climbing and just walking(Google searching or etc.)
 Numbering image files using '1_Numbering_file_name.py' for building up dataset.  
 
 ![1234](https://user-images.githubusercontent.com/120359150/214735000-17ee9ade-b665-4520-9a97-2da94a38a15d.PNG)  
-And Preprocess each images about 'wall climbing' 'Walking' image using '2_Create_dataset.py'. This process using YOLOv4 crops only 'person' area in images and restructure a dataset.
+And Preprocess each images about 'wall climbing', 'Walking' using '2_Create_dataset.py'. This process using YOLOv4 crops only 'person' area in images and restructure a dataset.
 
 ---
 
